@@ -1,0 +1,40 @@
+Privacy Policy for SPECRES Bot
+
+Last updated: January 5, 2026
+
+1. Introduction
+SPECRES Bot ("we", "our", or "the Application") is a private automation tool that integrates with Google services (Google Sheets, Google Drive) for internal business purposes.
+
+2. Data We Access
+The Application accesses only:
+- Google Sheets: to read and write spreadsheet data
+- Google Drive: to create, read, and manage files
+
+3. How We Use Data
+All data accessed through Google APIs is used solely for:
+- Processing user requests within the automation workflow
+- Creating and managing spreadsheet reports
+- Storing files in designated Google Drive folders
+
+4. Data Storage
+- We do not store Google user data on external servers
+- All data remains within Google's infrastructure
+- Temporary processing data is deleted after workflow completion
+
+5. Data Sharing
+We do not sell, trade, or share any data accessed through Google APIs with third parties.
+
+6. Data Security
+We implement appropriate security measures to protect against unauthorized access to data.
+
+7. User Rights
+Users can revoke access to their Google account at any time through Google Account settings (https://myaccount.google.com/permissions).
+
+8. Limited Use Disclosure
+SPECRES Bot's use and transfer of information received from Google APIs adheres to Google API Services User Data Policy, including the Limited Use requirements.
+
+9. Contact
+For questions about this Privacy Policy, contact: [your-email@example.com]
+
+10. Changes
+We may update this Privacy Policy. Changes will be posted on this page with updated date.
